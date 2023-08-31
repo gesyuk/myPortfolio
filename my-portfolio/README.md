@@ -1,4 +1,5 @@
 # MyPortfolio
+This is my first project ever and this will represent my set of skills when it comes to web application developement.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
